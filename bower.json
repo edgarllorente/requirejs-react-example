@@ -1,0 +1,23 @@
+{
+  "name": "test-library",
+  "description": "Test library using require and react.",
+  "main": "main.js",
+  "authors": [
+    "Edgar Llorente"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.0",
+    "requirejs": "^2.3.2"
+  }
+}
